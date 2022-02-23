@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Four great and horrible murders, or, Bloody nevvs from Islington being a full and true relation how a womans brains were knockt out with her own pattin, rob'd, and her throat cut, on Fryday the 5th of February instant, a man beaten to death the 8th of the same month, and a woman drowned her self in a pond at Islington : likewise a maid barbarously murdred at Chester by two villains ... for which they were condemned ... the 23 of January last, and hanged ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40051</idno>
+            <idno type="STC">Wing F1656</idno>
+            <idno type="STC">ESTC R226823</idno>
+            <idno type="EEBO-CITATION">23239802</idno>
+            <idno type="OCLC">ocm 23239802</idno>
+            <idno type="VID">109512</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40051)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109512)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1700:49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Four great and horrible murders, or, Bloody nevvs from Islington being a full and true relation how a womans brains were knockt out with her own pattin, rob'd, and her throat cut, on Fryday the 5th of February instant, a man beaten to death the 8th of the same month, and a woman drowned her self in a pond at Islington : likewise a maid barbarously murdred at Chester by two villains ... for which they were condemned ... the 23 of January last, and hanged ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: slightly faded, with some loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Murder --  England --  Islington.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109512:1" rendition="simple:additions"/>
+            <p>Four Great and Horrible MVRDERS, OR, Bloody Nevvs FROM ISLINGTON.</p>
+            <p>Being a Full and True Relation how a Womans Brains were knockt out with her own Pattin, Rob'd, and her Throat Cut, on <hi>Fryday</hi> the <hi>5th</hi> of <hi>February</hi> Inſtant. A Man beaten to Death the <hi>8th</hi> of the ſame Month. And a Woman Drow<g ref="char:EOLhyphen"/>ned her ſelf in a Pond at <hi>Iſlington.</hi>
+            </p>
+            <p>Likewiſe a Maid Barbarouſly Murdred at <hi>Cheſter</hi> by two Villains that would have intic'd Her to Leudneſs, for which they were Condemned at the Seſſions there held the 23. of <hi>January</hi> laſt, and Hanged, with their Con<g ref="char:EOLhyphen"/>feſſion at the place of Execution.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:109512:2"/>
+            <pb n="1" facs="tcp:109512:2"/>
+            <head>Four Great and Horrible MURTHERS: OR, Bloody News from <hi>Iſlington.</hi>
+            </head>
+            <p>TIs an approved Maxime amongſt Divines, <hi>That the Cuſtome of ſlaning, takes away the ſence of it,</hi> which we may too truely apply to the particular Sin of Murther, in this our barbarous Age, which is become ſo frequent and common, that 'tis ſcarce reguarded or laid to heart by any but thoſe immediately Concernd in it; 'tis ſtrange that that which is the moſt Crying <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd inhumane crime in the world, ſhould find ſuch ready Entertainment, that perſons ſhould be ſo given up to work wick<g ref="char:EOLhyphen"/>edneſs, as to deface the image of their Creator, and violate all L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ws Divine, Moral, and Civil, by dip<g ref="char:EOLhyphen"/>ing their barbarous hands in the blood of their bre<g ref="char:EOLhyphen"/>thren, we need not now ſearch ancient Records, not turn over Forraign Hyſtories, ſince every day all<g ref="char:EOLhyphen"/>moſt, ſupplies us at home, with freſh ſtories of
+<pb n="2" facs="tcp:109512:3"/> diſmal Tragedies, and one Pariſh, in one weeks time is ſtain d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>with no leſs than three horrible Mur<g ref="char:EOLhyphen"/>thers Committed ſeverrally and in different man<g ref="char:EOLhyphen"/>ners.</p>
+            <p>The firſt was of an innocent Countrywoman, whoſe name and habitation is as yet unknown, ſhe was travelling towards <hi>London,</hi> and was ſeen in the E<g ref="char:EOLhyphen"/>vening coming along the further part of the Town of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ington,</hi> in Company with two men, one of them carrying her pattins for her, A Foot-boy go<g ref="char:EOLhyphen"/>ing accidentally near behind them, over-heard one of the men, ask her whether ſhe was not afraid to go in the Evenning, and whether ſhe knew the way well, to which ſhe replyed Innocently, that ſhe was not at all afraid, as long as ſhe had good com<g ref="char:EOLhyphen"/>pany, and that if ſhe weare alone ſhe knew the way pretty well; for ſhe had travelled it ſeveral times before, whereupon the man told her, he would ſhew her a way that was both cleaner and much nearer, this diſcourſe the aforeſaid Boy heard, and has ſince teſtified, and further remembers not, but 'tis moſt Conſentaneous to Reaſon, to ſuppoſe that the poor woman was inveigled with theſe pretences of a better way, by theſe Villains out of the Road, into a place more fit for their helliſh purpoſe, for the next morning ſhe was found, lying dead by the Gravel<g ref="char:EOLhyphen"/>pits in <hi>Iſlington,</hi> with her Throat cut, and a great Fracture in her Skull, even to the Brain, 'tis thought as they came together, theſe unknown Aſſaſſinates might underſtand by ſome meanes, that ſhe had money about her, and therefore having got her to
+<pb n="3" facs="tcp:109512:3"/> this place, he that carried her Pattins, might with one of them ſtrike her on the head, and give her that wound on the <hi>Pericranium,</hi> for the blow by the hurt ſeem'd to be made by ſome ſuch thing, and was undoubtedly Struck with a good will, for her hat was cut through with it, and that ſhe was Rob<g ref="char:EOLhyphen"/>ed, is apparent, for three farthings were found dropt upon the brim of her hat, which 'tis very probably they let fall whilſt th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y were Riffling her in the dark, the perſon Murthred was a hand<g ref="char:EOLhyphen"/>ſome Country woman, as tis gueſt about Thirty yeares old, ſhe had on a ſtuff Veſt, and Petticoat, a green Apron, and Luteſtring Hood, and when ſhe was laid forth by women, a Gold-ring, was found in her ſhoe, ſhe has bin ſeen and Cryed at <hi>Barnet,</hi> but no body knew her, or would own her, we wiſh this account of her miſhapy Murther may reach the Ears of her Relations, where ever they live, that they may know how ſhe came to her End; the Bloody Murtherers are eſcaped under the Covert of the Night, yet doubtleſs divine vengeance will in due time bring them to light, that they may ſuffer according to their demerits.</p>
+            <p>The next Tragedy is that of a poor honeſt La<g ref="char:EOLhyphen"/>bouring man, that lived in <hi>Iſlington,</hi> neare the Nags head, the manner was thus, on Munday laſt being the Eighth of this inſtant <hi>February,</hi> he and one that uſually workt with him as his Partner, went in<g ref="char:EOLhyphen"/>duſtriouſly to their uſual Imploy which was Ditch<g ref="char:EOLhyphen"/>ing, and as they were honeſtly at their work, there came Two perſons, that were Brothers, and whe<g ref="char:EOLhyphen"/>the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:109512:4"/> they had any particular quarrel or prepenſed malice againſt theſe labourers, or either of them, or whether they <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Drunck, and reſolv'd to act that Miſcheivous <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> about this wicked town a Frollique, I cannot <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, but ſo it was, that coming neare they began to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Ditchers with whole Vallies of Clo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irt, who finding themſelves thus <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap>, demanded the reaſon of ſuch Hoſtillities, b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the over furious Aſſailants were not at leiſure to Anſwer, but gaining ground by nearer approaches, would needs fill up the Ditch the men had been makeing, and to that purpoſe threw down the Ba<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon their heads, which they had before caſt out, hereupon hard words did ariſe, which were followed by harder blowes, for in fine one of the Ditchers <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo mortified with beating, that he never ſpake a word afterwards.</p>
+            <p>The Third is of a poor Woman in the ſame Town, or one at leaſt that had for a night or two be<g ref="char:EOLhyphen"/>fore her death-Lodged there, ſhe had two Children, and was in great want which tis thought was the oc<g ref="char:EOLhyphen"/>caſion that ſhe made away her ſelf being drowned in the Pond at <hi>Iſlington,</hi> 'Tis ſaid that ſhe told her Children when ſhe left them, that if any body in<g ref="char:EOLhyphen"/>quired for her, they ſhould ſay ſhe was gon becauſe ſhe wanted Victuals and Mony, ſo ſad a thing it is to diſpair, and diſtruſt the all ſatisfying Providence of God, well may we ſay <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſuch Repiners, let their Condition be never ſo mean or neceſſitous, in the ſenſe of our bleſſed <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> words, If your heaven<g ref="char:EOLhyphen"/>ly Father provideth for the Sparrows, and cloath the
+<pb n="5" facs="tcp:109512:4"/> Lillies of the Feild, will he not much more ſupply you with neceſſaries, oh ye of little Faith.</p>
+            <p>Our laſt ſcene is laid ſomewhat more remote, but no leſs true and altogether as bloody, and in ſome reſpects more cruel than any of the former, being very lately tranſacted near the Citty of <hi>Cheſter,</hi> where one <hi>Tho. Edwards</hi> and one <hi>John Stevens</hi> of <hi>Warring<g ref="char:EOLhyphen"/>ton</hi> in the County were taken for Murthering one <hi>Jane Made</hi> Servant of their Maſter Mr. <hi>John Gibſon</hi> of <hi>Warrington</hi> aforeſaid Haberdaſher, the occaſion of it was that the Wench being handſom they often had inticed and perſuaded her to leudneſſe and diſ<g ref="char:EOLhyphen"/>honeſty with them, but ſhe not yeilding thereunto, they invited her to a Tavern the next night after the laſt Attempt, and were very mer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y there togeather for ſome time, and once were a going out of the houſe the maid being very earneſt to be gone home, but with much Intreatie they perſuaded her to go in a<g ref="char:EOLhyphen"/>gain, and ſtaid above in a Room togeather about half an hower, and then the two men came down ſtairs and went out, where upon the people of the houſe went up and found the maid on the Bed as they thought aſleep, but puting her in a Chair to ſee if ſhe would come to her ſelf Imagining her to be over<g ref="char:EOLhyphen"/>taken with drink, they perceived ſhe was dead, and ſending for the Conſtable Searched her, where they found in her left ſide a Bodkin of Iron that they had Stobd her with, whereupon Warrants were made out, and the two Murderers taken at ſupper and Committed, and at the Quarter-ſeſſions at <hi>Cheſter,</hi> held the 23. day of <hi>January</hi> laſt were arraigned and
+<pb n="6" facs="tcp:109512:5"/> Confeſſing the Fact Condemned to be Hanged, at their <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they acknowledged that one of them <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> out <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his Handkerche<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whilſt the <gap reason="illegible" resp="#KEYERS" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> as a <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and that they had for<g ref="char:EOLhyphen"/>merly <gap reason="illegible" resp="#KEYERS" extent="3 words">
+                  <desc>〈◊◊◊〉</desc>
+               </gap> Servant-maid to ſteal ſome Plate and ſell it and give them the money, for which wicked Act the poor maid was afterwards ſo much troubled in conſcience that ſhe Poiſon'd her ſelf, the rather for that one of them in Conſideration ſhe would Commit that robbery had promiſed her Mar<g ref="char:EOLhyphen"/>riage, which after he had got the money he refuſed to make good, they alſo confeſt that they had cheat<g ref="char:EOLhyphen"/>ed their Maſter of many a Pounds worth of Goods, and had deſerved Hanging before that time.</p>
+            <p>Thus Reader, haſt thou here heard Several ſad Examples, wherein Covetouſneſſe, Revenge diſpair and luſt all club to beget an horrid Murther, ſo great an affinity there is between ſins, that the Divil ſel<g ref="char:EOLhyphen"/>dome ſends them abroad alone, let theſe wretched Preſidents be our warning Leſſons, that ſhunning ſuch wicked Crimes, we may avoid ſuch deplo<g ref="char:EOLhyphen"/>rable Ends.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
